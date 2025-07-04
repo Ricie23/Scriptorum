@@ -1,0 +1,6 @@
+tk
+requests
+fastapi
+uvicorn
+bcrypt
+sqlalchemy
